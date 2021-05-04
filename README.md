@@ -6,12 +6,14 @@
 
 - [Rpubs: Reproducible Pitch Presentation](https://rpubs.com/Olu/765048)
 
+- [GitHub Pages: Reproducible Pitch Presentation](https://ooluw007.github.io/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch/)
+
 - [Assignment's GitHub Repository](https://github.com/ooluw007/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch)
 
 
 ## ShinyApp Codes
 
-Project's **Shiny App** codes can be access from **index.Rmd** file in the following 
+Project's **Shiny App** codes can be access from **ShinyApp** file in the following 
 GitHub repository. 
 
-https://github.com/ooluw007/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch
+[Shiny App Code](https://github.com/ooluw007/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch/tree/main/ShinyApp)
