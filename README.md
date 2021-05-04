@@ -13,7 +13,7 @@
 
 ## ShinyApp Codes
 
-Project's **Shiny App** codes can be access from **ShinyApp** file in the following 
+- Project's **Shiny App** codes can be access from **ShinyApp** file in the following 
 GitHub repository. 
 
 [Shiny App Code](https://github.com/ooluw007/Peer-graded-Assignment-Course-Project-Shiny-Application-and-Reproducible-Pitch/tree/main/ShinyApp)
